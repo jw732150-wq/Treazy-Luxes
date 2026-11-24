@@ -1,0 +1,34 @@
+/*Styling the webpage background*/
+body{
+background-color:#ADD8E6;
+}
+/*Styling the main head*/
+h1{
+text-align:center;
+color:RED;
+font-family:Algerian;						
+}
+/*Styling the main head*/
+h2{
+color:green;
+font-family:Blackadder ITC;
+}
+/*Styling all paragraphs*/
+p{
+font-size:30px;
+font-family:Edwardian Script ITC;
+color:Brown;
+}
+/*Styling the hobby list*/
+li{
+font-family:Edwardian script ITC;
+font-size:30px;
+color:Brown;
+}
+
+.Container{
+ Width:300px;
+ Padding:20px;
+ Border:2px solid black;
+ Margin:30px;
+
